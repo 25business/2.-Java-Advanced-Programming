@@ -1,0 +1,35 @@
+[
+  {
+    "first_name": "Jacob",
+    "last_name": "Finnley",
+    "age": 27,
+    "is_developer": true,
+	"hobbies": ["drawing", "swimming"],
+	"address": {
+		"street": "4th Avenue",
+		"street_no": 37
+	}
+  },
+  {
+    "first_name": "James",
+    "last_name": "Shirley",
+    "age": 29,
+    "is_developer": false,
+	"hobbies": ["drawing", "swimming", "playing drums"],
+	"address": {
+		"street": "4th Avenue",
+		"street_no": 38
+	}
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Connelly",
+    "age": 25,
+    "is_developer": true,
+	"hobbies": ["drawing", "swimming"],
+	"address": {
+		"street": "4th Avenue",
+		"street_no": 39
+	}
+  }
+]
